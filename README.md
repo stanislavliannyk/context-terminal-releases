@@ -4,7 +4,7 @@ A modern Linux terminal that remembers **command history and working directory p
 
 Designed for developers who work on multiple projects simultaneously and need **true context isolation**.
 
-![Demo](https://github.com/stanislavliannyk/context-terminal-releases/raw/main/assets/demo.gif)
+![Demo]([https://github.com/stanislavliannyk/context-terminal-releases/raw/main/assets/demo.gif](https://github.com/stanislavliannyk/context-terminal-releases/blob/main/demo.gif))
 
 ---
 
