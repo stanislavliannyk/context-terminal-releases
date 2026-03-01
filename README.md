@@ -53,3 +53,28 @@ Available formats:
 
 ```bash
 sudo rpm -Uvh Context.Terminal-0.1.0-1.x86_64.rpm
+```
+Or:
+```bash
+sudo dnf install Context.Terminal-0.1.0-1.x86_64.rpm
+```
+
+### Ubuntu / Debian (DEB)
+```bash
+sudo dpkg -i Context.Terminal_0.1.0_amd64.deb
+sudo apt -f install
+```
+Or:
+```bash
+sudo apt install ./Context.Terminal_0.1.0_amd64.deb
+```
+
+▶️ Launch
+
+After installation, launch from:
+
+Application menu
+
+Or terminal:
+
+context-terminal
