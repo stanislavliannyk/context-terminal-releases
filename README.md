@@ -4,6 +4,8 @@ A modern Linux terminal that remembers **command history and working directory p
 
 Designed for developers who work on multiple projects simultaneously and need **true context isolation**.
 
+![Demo](https://github.com/username/repo-name/raw/main/assets/demo.gif)
+
 ---
 
 ## ✨ Features
