@@ -12,7 +12,8 @@ Designed for developers who work on multiple projects simultaneously and need **
 
 - 🧠 Per-tab command history  
 - 📁 Per-tab working directory  
-- 🗂 Project-based tab organization  
+- 🗂 Project-based tab organization
+- 🐳 Per-container history (Docker)
 - ♻️ Context preserved across restarts  
 - 🐧 Native Linux packages (.deb / .rpm)  
 - ⚡ Lightweight and fast  
@@ -54,29 +55,31 @@ Available formats:
 ### Fedora / RHEL / CentOS (RPM)
 
 ```bash
-sudo rpm -Uvh Context.Terminal-0.1.0-1.x86_64.rpm
+sudo rpm -Uvh Context.Terminal-0.1.2-1.x86_64.rpm
 ```
 Or:
 ```bash
-sudo dnf install Context.Terminal-0.1.0-1.x86_64.rpm
+sudo dnf install Context.Terminal-0.1.2-1.x86_64.rpm
 ```
 
 ### Ubuntu / Debian (DEB)
 ```bash
-sudo dpkg -i Context.Terminal_0.1.0_amd64.deb
-sudo apt -f install
+sudo dpkg -i Context.Terminal_0.1.2_amd64.deb
 ```
 Or:
 ```bash
-sudo apt install ./Context.Terminal_0.1.0_amd64.deb
+sudo apt install ./Context.Terminal_0.1.2_amd64.deb
 ```
 
-▶️ Launch
+Your existing projects/tabs remain intact. New in 0.1.2: container history is now isolated per container.
+
+### ▶️ Launch
 
 After installation, launch from:
 
 Application menu
 
 Or terminal:
-
+```bash
 context-terminal
+```
