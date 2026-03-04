@@ -65,6 +65,7 @@ sudo dnf install Context.Terminal-0.1.2-1.x86_64.rpm
 ### Ubuntu / Debian (DEB)
 ```bash
 sudo dpkg -i Context.Terminal_0.1.2_amd64.deb
+sudo apt -f install
 ```
 Or:
 ```bash
