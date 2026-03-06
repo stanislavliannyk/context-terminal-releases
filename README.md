@@ -45,8 +45,8 @@ https://github.com/stanislavliannyk/context-terminal-releases/releases
 
 Available formats:
 
-- `Context.Terminal-0.1.0-1.x86_64.rpm`
-- `Context.Terminal_0.1.0_amd64.deb`
+- `Context.Terminal-0.1.2-1.x86_64.rpm`
+- `Context.Terminal_0.1.2_amd64.deb`
 
 ---
 
